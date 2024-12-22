@@ -9,14 +9,12 @@ function Contact() {
         <div className="text-center text-white">
           <h4 className="text-4xl lg:text-5xl font-[Caveat]">
             <span>
-              <span className="text-[#a9927d] ">C</span>ontact{' '}
-              <span className="text-[#a9927d] ">M</span>e
+              <span className="text-[#B4BEC9] ">C</span>ontact{' '}
+              <span className="text-[#B4BEC9] ">M</span>e
             </span>
           </h4>
           <p className="w-[90%] lg:w-[80%] mt-6 mx-auto text-sm lg:text-lg leading-6">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-            deserunt laudantium officia fuga ipsam quasi corrupti in numquam
-            dolor libero explicabo, inventore aperiam.
+          Got a project in mind or need expert advice? Contact me, and let&apos;s collaborate to bring your web development <br /> ideas to life with precision and creativity
           </p>
 
           <div className="mt-24 flex flex-col lg:flex-row justify-evenly items-start">
@@ -24,20 +22,20 @@ function Contact() {
             <div className="flex flex-col justify-center items-start text-center">
               
               <div className="flex mb-12 items-start">
-                <MdEmail className="text-2xl text-[#a9927d] mr-4" />
+                <MdEmail className="text-2xl text-[#B4BEC9] mr-4" />
                 <div className="text-start">
                   <p className="text-white">Have a question?</p>
                   <p className="my-2 text-[#616161]">I am here to help you</p>
-                  <p className="text-[#a9927d] ">Email me at thomas.david@mail.com</p>
+                  <p className="text-[#B4BEC9] ">Email me at iqbalkhizra026@gmail.com</p>
                 </div>
               </div>
 
               <div className="flex mb-12 items-start">
-                <MdLocationOn className="text-2xl text-[#a9927d] mr-4" />
+                <MdLocationOn className="text-2xl text-[#B4BEC9] mr-4" />
                 <div className="text-start">
                   <p className="text-white">Current Location</p>
                   <p className="my-2 text-[#616161]">Mansoura, Egypt</p>
-                  <p className="text-[#a9927d] ">serving clients worldwide</p>
+                  <p className="text-[#B4BEC9] ">serving clients worldwide</p>
                 </div>
               </div>
 
@@ -81,7 +79,7 @@ function Contact() {
                 />
               </div>
 
-              <Link href="#home" className="py-3 px-8 rounded-lg text-lg text-white bg-[#5e503f] transition hover:bg-[#7d674c]  mt-4">
+              <Link href="#home" className="py-3 px-8 rounded-lg text-lg text-[#002333] bg-[#B4BEC9] transition hover:bg-[#159A9C]  mt-4">
                 Send message
               </Link>
             </form>

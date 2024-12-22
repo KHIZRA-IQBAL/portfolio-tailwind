@@ -8,17 +8,15 @@ function Services() {
         <div className="text-center">
           <h4 className="text-white text-4xl lg:text-5xl font-[Caveat]">
             <span className="">
-              <span className="text-light-beige capitalize">w</span>hat{" "}
-              <span className="text-light-beige capitalize">I</span>{" "}
-              <span className="text-light-beige capitalize">d</span>o{" "}
-              <span className="text-light-beige capitalize">f</span>or{" "}
-              <span className="text-light-beige capitalize">c</span>lients
+              <span className="text-light-beige capitalize text-[#B4BEC9]">w</span>hat{" "}
+              <span className="text-light-beige capitalize text-[#B4BEC9]">I</span>{" "}
+              <span className="text-light-beige capitalize text-[#B4BEC9]">d</span>o{" "}
+              <span className="text-light-beige capitalize text-[#B4BEC9]">f</span>or{" "}
+              <span className="text-light-beige capitalize text-[#B4BEC9]">c</span>lients
             </span>
           </h4>
           <p className="w-[90%] lg:w-[80%] mt-6 mx-auto text-white text-sm lg:text-lg leading-6">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-            deserunt laudantium officia fuga ipsam quasi corrupti in numquam
-            dolor libero explicabo, inventore aperiam, commodi et!
+          I specialize in crafting dynamic, user-friendly websites and applications tailored to your needs. From clean designs to seamless functionality, I ensure every project delivers an exceptional user experience while meeting your business goals.
           </p>
           <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-4 text-start">
             
@@ -29,8 +27,7 @@ function Services() {
               <div className="w-full mt-12 text-white">
                 <h4 className="text-2xl capitalize mb-4">branding</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Nesciunt deserunt laudantium officia fuga ipsam quasi.
+                I craft engaging and functional websites that bring brands to life through innovative design and seamless user experiences.
                 </p>
               </div>
             </div>
@@ -42,8 +39,7 @@ function Services() {
               <div className="w-full mt-12 text-white">
                 <h4 className="text-2xl capitalize mb-4">design</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Nesciunt deserunt laudantium officia fuga ipsam quasi.
+                I use Figma to create interactive and visually stunning prototypes, ensuring seamless collaboration and delivering user-centric designs that align with brand goals.
                 </p>
               </div>
             </div>
@@ -55,8 +51,7 @@ function Services() {
               <div className="w-full mt-12 text-white">
                 <h4 className="text-2xl capitalize mb-4">development</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Nesciunt deserunt laudantium officia fuga ipsam quasi.
+                I develop responsive, high-performance websites using clean code and the latest technologies, ensuring seamless functionality and an excellent user experience across all devices.
                 </p>
               </div>
             </div>
@@ -68,8 +63,7 @@ function Services() {
               <div className="w-full mt-12 text-white">
                 <h4 className="text-2xl capitalize mb-4">SEO</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Nesciunt deserunt laudantium officia fuga ipsam quasi.
+                I optimize websites for search engines using best SEO practices, ensuring higher visibility, better ranking, and a seamless user experience to drive organic traffic.
                 </p>
               </div>
             </div>
